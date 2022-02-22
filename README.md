@@ -18,9 +18,7 @@
   <div> 
   <a href="https://www.linkedin.com/in/-mynameisjohn-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:Kenarotech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    
-  ![Snake animation](https://github.com/Kenar0/Kenar0/blob/output/github-contribution-grid-snake.svg)
-    
+       
   </div>
     
 <br></br>
