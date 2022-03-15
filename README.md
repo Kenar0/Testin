@@ -14,10 +14,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>      </p>
  
   ##
-  
+                
   <div> 
-  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="-mynameisjohn-" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/-mynameisjohn-?trk=profile-badge">John Wesley</a></div>
-              
+  <a href="https://www.linkedin.com/in/-mynameisjohn-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>         
   <a href = "mailto:Kenarotech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
        
   </div>
