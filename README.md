@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/Kenar0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kenar0&show_icons=true&theme=vision-friendly-dark&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenar0&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenar0&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
