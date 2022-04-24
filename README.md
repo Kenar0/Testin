@@ -16,9 +16,9 @@
   ##
                 
   <div> 
-  <a href="https://www.linkedin.com/in/-mynameisjohn-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>         
-  <a href = "mailto:Kenarotech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://tryhackme.com/p/CyberNeko" target="_blank"><img src="https://img.shields.io/badge/-TryHackMe-212C42?logo=tryhackme&logoColor=white&style=for-the-badge" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/-mynameisjohn-" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>         
+  <a href = "mailto:Kenarotech@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
+  <a href="https://tryhackme.com/p/CyberNeko" target="_blank"> <img src="https://img.shields.io/badge/-TryHackMe-212C42?logo=tryhackme&logoColor=white&style=for-the-badge" target="_blank"> </a>
        
   </div>
     
